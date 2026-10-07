@@ -6,7 +6,7 @@ CryoEM Playbook is an Open Educational Resource collection of interactive notebo
 
 The practicals run entirely in the browser (via [JupyterLite](https://jupyterlite.readthedocs.io/) and [Pyodide](https://pyodide.org/)), with no installation needed:
 
-**https://cryotud.github.io/cryoem-playbook**
+**https://cryotud.github.io/cryoem-doeboek**
 
 Notebooks: Fourier analysis (available), Single-particle analysis and Tomography (both under construction).
 
@@ -23,7 +23,7 @@ You are free to share and adapt this material for any purpose as long as you giv
 
 **Suggested attribution:**
 
-> *CryoEM Playbook* licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Source: https://github.com/cryoTUD/cryoem-playbook
+> *CryoEM Playbook* licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Source: https://github.com/cryoTUD/cryoem-doeboek
 
 Not covered by these licenses: the TU Delft name and flame logo (including the flame image used as an example image in the notebooks and the `tud_flame` data files) are the property of TU Delft and are not covered by these licenses. Please remove or replace them if you reuse the material outside TU Delft.
 

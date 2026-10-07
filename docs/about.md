@@ -17,10 +17,10 @@ CryoEM Playbook is an **Open Educational Resource**. You are free to use, share 
 | What | License |
 |------|---------|
 | **Content**: text, explanations, exercises, figures and the notebooks as teaching material | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
-| **Code**: code cells in the notebooks, build and workflow files | [BSD 3-Clause License](https://github.com/cryoTUD/cryoem-playbook/blob/main/LICENSE-CODE) |
+| **Code**: code cells in the notebooks, build and workflow files | [BSD 3-Clause License](https://github.com/cryoTUD/cryoem-doeboek/blob/main/LICENSE-CODE) |
 
 **Suggested attribution:**
 
-> *CryoEM Playbook* licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Source: <https://github.com/cryoTUD/cryoem-playbook>
+> *CryoEM Playbook* licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Source: <https://github.com/cryoTUD/cryoem-doeboek>
 
 The TU Delft name and flame logo (including the flame image used as an example image in the notebooks) are the property of TU Delft and are not covered by these licenses.
