@@ -1,5 +1,3 @@
-## About CryoEM Doeboek
-
 CryoEM Doeboek is a collection of interactive computational practicals for the **High Resolution Imaging (NB4020)** course at TU Delft. Notebooks are embedded via [JupyterLite](https://jupyterlite.readthedocs.io/) using the [mkdocs-jupyterlite](https://nickcrews.github.io/mkdocs-jupyterlite/) plugin. All code runs in the browser using [Pyodide](https://pyodide.org/). No server or local installation is required.
 
 ### Dependencies
@@ -9,7 +7,7 @@ All practicals use standard scientific Python packages that ship with Pyodide:
 - `ipywidgets`
 
 ### Source
-Source notebooks and course materials are maintained by Arjen Jakobi (TU Delft). 
+Source notebooks and course materials are maintained by Arjen Jakobi (TU Delft). The content is in part based on material developed for previous versions of these notebooks with the help of Alok Bhradwaj, Maarten Joosten and Stefan Huber.
 
 ### Open educational resource and licensing
 CryoEM Doeboek is an **Open Educational Resource**. You are free to use, share and adapt it for teaching and learning as long as you give appropriate credit.
