@@ -2,3 +2,6 @@ site/
 __pycache__/
 *.py[cod]
 .DS_Store
+
+# Claude Code local settings
+.claude/
