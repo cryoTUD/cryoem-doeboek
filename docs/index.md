@@ -21,3 +21,7 @@ Each practical runs entirely in your browser via [JupyterLite](https://jupyterli
 ---
 
 > **Tip:** Each practical contains interactive widgets. Run the setup cell first, then explore the sliders and dropdowns.
+
+---
+
+*CryoEM Playbook is an open educational resource. The content is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) and the code under the BSD 3-Clause license. See [About](about.md#open-educational-resource-and-licensing) for details and how to attribute.*

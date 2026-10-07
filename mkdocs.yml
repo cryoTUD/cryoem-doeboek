@@ -8,7 +8,10 @@ repo_name: cryotud/cryoem-playbook
 repo_url: https://github.com/cryotud/cryoem-playbook
 
 # Copyright
-copyright: Copyright &copy; 2026 - 2026 Arjen Jakobi
+copyright: >-
+  &copy; 2026 Arjen Jakobi. Open educational resource: content
+  <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>,
+  code <a href="https://github.com/cryoTUD/cryoem-playbook/blob/main/LICENSE-CODE">BSD-3-Clause</a>
 
 theme:
   icon:
