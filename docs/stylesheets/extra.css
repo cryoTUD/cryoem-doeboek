@@ -1,5 +1,7 @@
 .md-main__inner.md-grid { max-width: 70rem; }
 
+.justify { text-align: justify; }
+
 .notebook-embed {
     margin: 1rem 0;
     border: 1px solid var(--md-default-fg-color--lightest);
