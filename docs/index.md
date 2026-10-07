@@ -8,15 +8,13 @@ Each practical runs entirely in your browser via [JupyterLite](https://jupyterli
 
 ## Practicals
 
-!!! info "What are the different practicals"
-- XY. 
-- ZZ.  
+!!! info "What are the different practicals?"
 
-| Practical | Topics |
-|-----------|--------|
-| [Fourier analysis](fourier.md) | Waves, Fourier series, 1D/2D FFT, convolution theorem, CTF |
-| [Single-particle analysis](spa.md) | Image formation model, alignment, reconstruction, iterative refinement, 2D classification |
-| [Tomography](tomo.md) | Tilt series, sinogram, backprojection, filtered backprojection, Fourier slice theorem, missing wedge, Crowther criterion |
+    The three practicals build on each other. We recommend working through them in this order, as the Fourier concepts from the first practical return in the other two.
+
+    - **[Fourier analysis](fourier.md)** introduces the mathematical toolbox of the course. You explore waves, Fourier series and the 1D and 2D Fourier transform, use the convolution theorem for image filtering, and finish with the contrast transfer function (CTF) and how to correct for it.
+    - **[Single-particle analysis](spa.md)** shows how a structure is recovered from many noisy projectin images of identical particles seen in different orientations. Using a simplified 2D model, you simulate particle images, align them to a reference, reconstruct, refine and classify them.
+    - **[Tomography](tomo.md)** shows how a 3D volume is reconstructed from a tilt series of projections. You build a sinogram, compare backprojection with filtered backprojection, and see how the Fourier slice theorem, the missing wedge and the Crowther criterion limit the resolution.
 
 ---
 
