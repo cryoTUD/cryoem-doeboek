@@ -8,7 +8,7 @@ The practicals run entirely in the browser (via [JupyterLite](https://jupyterlit
 
 **https://cryotud.github.io/cryoem-playbook**
 
-Practicals: Fourier analysis, Single-particle analysis and Tomography.
+Notebooks: Fourier analysis (available), Single-particle analysis and Tomography (both under construction).
 
 ## License
 

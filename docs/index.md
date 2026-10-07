@@ -10,11 +10,11 @@ This is a collection of iInteractive notebooks for the **High Resolution Imaging
 
 !!! info "What are the different notebooks?"
 
-    The three notebooks build on each other. We recommend working through them in this order, as the Fourier concepts from the first notebook return in the other two.
+    The notebooks build on each other. We recommend working through them in this order, as the Fourier concepts from the first notebook return in the others. The last two notebooks are still under construction and will be added soon.
 
     - **[Fourier analysis](fourier.md)** introduces the mathematical toolbox of the course. You explore waves, Fourier series and the 1D and 2D Fourier transform, use the convolution theorem for image filtering, and finish with the contrast transfer function (CTF) and how to correct for it.
-    - **[Single-particle analysis](spa.md)** shows how a structure is recovered from many noisy projectin images of identical particles seen in different orientations. Using a simplified 2D model, you simulate particle images, align them to a reference, reconstruct, refine and classify them.
-    - **[Tomography](tomo.md)** shows how a 3D volume is reconstructed from a tilt series of projections. You build a sinogram, compare backprojection with filtered backprojection, and see how the Fourier slice theorem, the missing wedge and the Crowther criterion limit the resolution.
+    - **[Single-particle analysis](spa.md)** *(under construction)* shows how a structure is recovered from many noisy projectin images of identical particles seen in different orientations. Using a simplified 2D model, you simulate particle images, align them to a reference, reconstruct, refine and classify them.
+    - **[Tomography](tomo.md)** *(under construction)* shows how a 3D volume is reconstructed from a tilt series of projections. You build a sinogram, compare backprojection with filtered backprojection, and see how the Fourier slice theorem, the missing wedge and the Crowther criterion limit the resolution.
 
 ---
 

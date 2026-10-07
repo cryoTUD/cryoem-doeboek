@@ -5,3 +5,6 @@ __pycache__/
 
 # Claude Code local settings
 .claude/
+
+# Work in progress: not published (kept locally only)
+wip/
