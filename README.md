@@ -1,8 +1,8 @@
-# CryoEM Playbook
+# CryoEM Doeboek
 
 [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
-CryoEM Playbook is an Open Educational Resource collection of interactive notebooks that illustrate core concepts in cryo-EM through practical, hands-on examples. It was developed for the *High Resolution Imaging* course at TU Delft.
+CryoEM Doeboek is an Open Educational Resource collection of interactive notebooks that illustrate core concepts in cryo-EM through practical, hands-on examples. It was developed for the *High Resolution Imaging* course at TU Delft.
 
 The practicals run entirely in the browser (via [JupyterLite](https://jupyterlite.readthedocs.io/) and [Pyodide](https://pyodide.org/)), with no installation needed:
 
@@ -23,7 +23,7 @@ You are free to share and adapt this material for any purpose as long as you giv
 
 **Suggested attribution:**
 
-> *CryoEM Playbook* licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Source: https://github.com/cryoTUD/cryoem-doeboek
+> *CryoEM Doeboek* licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Source: https://github.com/cryoTUD/cryoem-doeboek
 
 Not covered by these licenses: the TU Delft name and flame logo (including the flame image used as an example image in the notebooks and the `tud_flame` data files) are the property of TU Delft and are not covered by these licenses. Please remove or replace them if you reuse the material outside TU Delft.
 

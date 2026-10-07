@@ -1,6 +1,10 @@
-# CryoEM Playbook
+# CryoEM Doeboek
 
-This is a collection of iInteractive notebooks for the **High Resolution Imaging** course at TU Delft. They introduce core concepts of cryo-EM image processing through hands-on examples and working through exercises and questions along the way.
+This is a collection of interactive notebooks for the **High Resolution Imaging** course at TU Delft. They introduce core concepts of cryo-EM image processing through hands-on examples and working through exercises and questions along the way.
+
+!!! note "What is a doeboek?"
+
+    *Doeboek* is Dutch for a "do-book": *doe* means "do" and *boek* means "book". It is a workbook that you work through by doing, instead of only reading. This doeboek is a collection of notebooks in which you learn the core concepts of cryo-EM image processing by trying them out.
 
 **No installation needed.** Each notebook runs entirely in your browser via [JupyterLite](https://jupyterlite.readthedocs.io/) and is embedded directly in its page. Click **Run All** (⏭) in the toolbar to start the kernel and run the code. The first start can take a moment while Python loads. Then explore the results with the sliders and dropdowns.
 
@@ -18,4 +22,4 @@ This is a collection of iInteractive notebooks for the **High Resolution Imaging
 
 ---
 
-*CryoEM Playbook is an open educational resource. The content is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) and the code under the BSD 3-Clause license. See [About](about.md#open-educational-resource-and-licensing) for details and how to attribute.*
+*CryoEM Doeboek is an open educational resource. The content is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) and the code under the BSD 3-Clause license. See [About](about.md#open-educational-resource-and-licensing) for details and how to attribute.*
