@@ -1,4 +1,4 @@
-# CryoEM Doeboek
+# CryoEM doeboek
 
 This is a collection of interactive notebooks for the **High Resolution Imaging (NB4020)** course at TU Delft. They introduce core concepts of cryo-EM image processing through hands-on examples and working through exercises and questions along the way.
 
