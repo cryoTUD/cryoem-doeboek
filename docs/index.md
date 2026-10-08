@@ -6,7 +6,7 @@ This is a collection of interactive notebooks for the **High Resolution Imaging 
 
     *Doeboek* is Dutch for a "do-book": *doe* means "do" and *boek* means "book". It is a workbook that you work through by doing, instead of only reading. 
 
-Each notebook runs entirely in your browser via [JupyterLite](https://jupyterlite.readthedocs.io/) and is embedded directly in its page. Click **Run All** (⏭) in the toolbar to start the kernel and run the code. The first start can take a moment while Python loads. Then explore the results with the sliders and dropdowns.
+Each notebook runs entirely in your browser via [JupyterLite](https://jupyterlite.readthedocs.io/). Click **Run All** (⏭) in the toolbar to start the kernel and run the code. The first start can take a moment while Python loads. Then explore the results with the sliders and dropdowns and work through the questions.
 
 ---
 

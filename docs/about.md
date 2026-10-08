@@ -6,9 +6,6 @@ All practicals use standard scientific Python packages that ship with Pyodide:
 - `numpy`, `matplotlib`, `scipy`
 - `ipywidgets`
 
-### Source
-Source notebooks and course materials are maintained by Arjen Jakobi (TU Delft). The content is in part based on material developed for previous versions of these notebooks with the help of Alok Bhradwaj, Maarten Joosten and Stefan Huber.
-
 ### Open educational resource and licensing
 *CryoEM doeboek* is an **Open Educational Resource**. You are free to use, share and adapt it for teaching and learning as long as you give appropriate credit.
 
@@ -21,4 +18,7 @@ Source notebooks and course materials are maintained by Arjen Jakobi (TU Delft).
 
 > *CryoEM doeboek* licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Source: <https://github.com/cryoTUD/cryoem-doeboek>
 
-The TU Delft name and flame logo (including the flame image used as an example image in the notebooks) are the property of TU Delft and are not covered by these licenses.
+*Disclaimer: The TU Delft name and flame logo (including the flame image used as an example image in the notebooks) are the property of TU Delft and are not covered by these licenses.*
+
+### Source
+Source notebooks and course materials are developed and maintained by Arjen Jakobi (TU Delft). The content is in part based on material from previous versions of these notebooks developed with the help of Alok Bhradwaj, Maarten Joosten and Stefan Huber.
