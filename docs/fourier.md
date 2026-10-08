@@ -5,10 +5,10 @@ This practical introduces the role of Fourier methods in physical optics. In par
 
 During this practical, you will see that digital images can be understood as two-dimensional functions. At each position in the image, the function gives a signal value, which represents the intensity or gray value at that point.
 
-To understand digital images, it is useful to first think about signals in general. Signals can take many different forms. For example, human speech is produced by the vocal system through changes in acoustic pressure. In every case, the information in a signal is found in the way something varies. Mathematically, signals can be described as functions of one or more independent variables.
+To understand digital images, it is useful to first think about signals in general. Signals can take many different forms. For example, human speech is produced by the vocal system through changes in acoustic pressure. In every case, the information in a signal is found in the way something varies. Mathematically, signals can be described as functions of one or more independent variables. We will explore how any signal can be built up from simple waves, and how this helps us to understand, filter and correct images in cryo-EM.
 </div>
 
-> **To start the practicals:** click **Run All** (⏭) in the toolbar above.
+> **To start the practicals:** click **Run All** (⏭) in the toolbar of the notebook.
 
 <div class="notebook-embed">
 <iframe

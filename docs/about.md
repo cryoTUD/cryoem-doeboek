@@ -1,4 +1,4 @@
-*CryoEM doeboek* is a collection of interactive computational practicals for the **High Resolution Imaging (NB4020)** course at TU Delft. Notebooks are embedded via [JupyterLite](https://jupyterlite.readthedocs.io/) using the [mkdocs-jupyterlite](https://nickcrews.github.io/mkdocs-jupyterlite/) plugin. All code runs in the browser using [Pyodide](https://pyodide.org/). No server or local installation is required.
+*CryoEM doeboek* is a collection of interactive computational practicals for the **High Resolution Imaging (NB4020)** course at TU Delft. Notebooks are embedded via [JupyterLite](https://jupyterlite.readthedocs.io/) using the [mkdocs-jupyterlite](https://nickcrews.github.io/mkdocs-jupyterlite/) plugin. All code runs in the browser using [Pyodide](https://pyodide.org/). 
 
 ### Dependencies
 All practicals use standard scientific Python packages that ship with Pyodide:

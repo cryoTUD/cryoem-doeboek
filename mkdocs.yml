@@ -85,7 +85,7 @@ nav:
       - Fourier analysis: fourier.md
       - Single-particle analysis: spa.md
       - Tomography: tomo.md
-  - About CryoEM Doeboek: about.md
+  - About CryoEM doeboek: about.md
 
 plugins:
   - search
