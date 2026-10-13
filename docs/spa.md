@@ -1,7 +1,18 @@
 # Single-Particle Analysis
 
-!!! warning "Under construction"
+!!! info "Bonus exercises"
 
-    This notebook is still under construction and is not available yet. It will cover the core steps of single-particle analysis: image formation, alignment, reconstruction and classification.
+    After the main practical, you can continue with the optional bonus exercises:
 
-    In the meantime, you can start with the [Fourier analysis](fourier.md) notebook, which introduces the concepts used here.
+    - [Bonus 1: Dealing with translation](spa_bonus1.md)
+    - [Bonus 2: Making the algorithm iterative](spa_bonus2.md)
+    - [Bonus 3: 2D classification](spa_bonus3.md)
+
+<div class="notebook-embed">
+<iframe
+    src="../jupyterlite/notebooks/index.html?path=notebooks/spa.ipynb"
+    width="100%"
+    frameborder="0"
+    allowfullscreen>
+</iframe>
+</div>
