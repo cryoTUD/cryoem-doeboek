@@ -1,12 +1,7 @@
 # Single-Particle Analysis: Bonus 1, Translation
 
-This is an optional bonus exercise. It builds on the [main practical](spa.md).
+!!! warning "Under construction"
 
-<div class="notebook-embed">
-<iframe
-    src="../jupyterlite/notebooks/index.html?path=notebooks/spa_bonus1.ipynb"
-    width="100%"
-    frameborder="0"
-    allowfullscreen>
-</iframe>
-</div>
+    This bonus exercise is still under construction and is not available yet. It will show you how to extend your algorithm to particles that are not centred in the image, so that you estimate the translation as well as the rotation of every particle.
+
+    In the meantime, you can work through the [main practical](spa.md).
