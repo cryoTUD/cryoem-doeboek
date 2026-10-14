@@ -85,8 +85,8 @@ nav:
       - Fourier analysis: fourier.md
       - Single-particle analysis:
           - Practical: spa.md
-          - Bonus 1: translation: spa_bonus1.md
-          - Bonus 2: 2D classification: spa_bonus2.md
+          - Bonus 1 (translation): spa_bonus1.md
+          - Bonus 2 (2D classification): spa_bonus2.md
       - Tomography: tomo.md
   - About CryoEM doeboek: about.md
 
