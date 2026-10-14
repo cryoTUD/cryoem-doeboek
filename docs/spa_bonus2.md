@@ -1,7 +1,7 @@
-# Single-Particle Analysis: Bonus 2, Iterative Refinement
+# Single-Particle Analysis: Bonus 2, 2D Classification
 
 !!! warning "Under construction"
 
-    This bonus exercise is still under construction and is not available yet. It will show you how to make the algorithm iterative: the reconstruction becomes the next reference, and alignment and reconstruction are repeated.
+    This bonus exercise is still under construction and is not available yet. It will show you how to sort images of different particles, or images without a particle, into classes.
 
     In the meantime, you can work through the [main practical](spa.md).
